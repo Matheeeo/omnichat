@@ -1,0 +1,5 @@
+{
+  "name": "OmniChat",
+  "description": "Unified messaging app (LinkedIn, WhatsApp, SMS) with Supabase backend.",
+  "requestFramePermissions": []
+}
